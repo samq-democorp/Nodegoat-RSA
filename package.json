@@ -7,7 +7,7 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
-    "consolidate": "^0.14.1",
+    "consolidate": "^0.16.0",
     "csurf": "^1.8.3",
     "dont-sniff-mimetype": "^1.0.0",
     "express": "^4.13.4",
@@ -48,7 +48,7 @@
     "grunt-env": "latest",
     "grunt-if": "https://github.com/binarymist/grunt-if/tarball/master",
     "grunt-jsbeautifier": "^0.2.12",
-    "grunt-mocha-test": "^0.12.7",
+    "grunt-mocha-test": "^0.13.0",
     "grunt-nodemon": "^0.4.2",
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^0.3.12",
