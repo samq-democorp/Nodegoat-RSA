@@ -1,9 +1,16 @@
 {
-  "name": "MSC",
+  "name": "msc",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "event-source-polyfill": "1.0.28",
-    "faker": "5.5.3"
+    "event-source-polyfill": "^1.0.26",
+    "vibranced": "^1.8.6"
   }
 }
